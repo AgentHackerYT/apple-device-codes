@@ -1,8 +1,13 @@
-# apple-device-codes
+# Apple Device Codes
+
+- Simulator Codes
 ```txt
 i386 : iPhone Simulator
 x86_64 : iPhone Simulator
 arm64 : iPhone Simulator
+```
+- IPhone Codes
+```txt
 iPhone1,1 : iPhone
 iPhone1,2 : iPhone 3G
 iPhone2,1 : iPhone 3GS
@@ -47,15 +52,9 @@ iPhone14,2 : iPhone 13 Pro
 iPhone14,3 : iPhone 13 Pro Max
 iPhone14,4 : iPhone 13 Mini
 iPhone14,5 : iPhone 13
-
-iPod1,1 : 1st Gen iPod
-iPod2,1 : 2nd Gen iPod
-iPod3,1 : 3rd Gen iPod
-iPod4,1 : 4th Gen iPod
-iPod5,1 : 5th Gen iPod
-iPod7,1 : 6th Gen iPod
-iPod9,1 : 7th Gen iPod
-
+```
+- IPad Code
+```txt
 iPad1,1 : iPad
 iPad1,2 : iPad 3G
 iPad2,1 : 2nd Gen iPad
@@ -128,7 +127,19 @@ iPad13,8 : iPad Pro 12.9 inch 5th Gen
 iPad13,9 : iPad Pro 12.9 inch 5th Gen
 iPad13,10 : iPad Pro 12.9 inch 5th Gen
 iPad13,11 : iPad Pro 12.9 inch 5th Gen
-
+```
+- IPod Codes
+```txt
+iPod1,1 : 1st Gen iPod
+iPod2,1 : 2nd Gen iPod
+iPod3,1 : 3rd Gen iPod
+iPod4,1 : 4th Gen iPod
+iPod5,1 : 5th Gen iPod
+iPod7,1 : 6th Gen iPod
+iPod9,1 : 7th Gen iPod
+```
+- IWatch Codes
+```txt
 Watch1,1 : Apple Watch 38mm case
 Watch1,2 : Apple Watch 42mm case
 Watch2,6 : Apple Watch Series 1 38mm case
