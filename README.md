@@ -1,6 +1,6 @@
 # Apple Device Codes
 
-- Simulator Codes
+- Simulator/Emulator Codes
 ```txt
 i386 : iPhone Simulator
 x86_64 : iPhone Simulator
